@@ -1,0 +1,246 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/betterf3.json"
+hash = "bf1e575f6a5fde4ec69b55af438e520bcdaf1d4781817893511e3ddd65d4bbd3"
+
+[[files]]
+file = "config/enhanced_bes.properties"
+hash = "dc9209ce3cbb6392c1fe10af7e5ab1846130625d7f2e411f8f488f83d252e2cb"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "e252e0ec8ce9bc7c8b60c2af88ff26aa70dd951128224edaa8d555e3d82f82ae"
+
+[[files]]
+file = "config/forcecloseloadingscreen.json"
+hash = "e61ff488eb2d79169f56667e0e83eb65354270471d3aff072c512c5ca295884c"
+
+[[files]]
+file = "config/iris.properties"
+hash = "bba1289d81972eb3395779b0c632849d5641e48d84fb2e64b2051b653f996f77"
+
+[[files]]
+file = "config/jsclient.json"
+hash = "c6e2e3f0645a1b60b213b0a7387887479761047b7b0750250361d359795ae413"
+
+[[files]]
+file = "config/lambdynlights.toml"
+hash = "a389e997fe8d6462b5a2a003f8bf6edf431d3834e9e205c2da282e89c3577ffc"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "b71e7dcbf20f58a07d18e6a159c37800e3f2b00ba80e8d4cb71b2063a7bba6fd"
+
+[[files]]
+file = "config/msd.json"
+hash = "a01d22a4d312eb1aacae5e40d0dd11b541c62f5e1d0464e76b49ba11c0aa23ab"
+
+[[files]]
+file = "config/mtr.json"
+hash = "e11a130ff6cb3d7c5cc8c971eda508dfbc7c9989932905718cad3cd5c3df2c13"
+
+[[files]]
+file = "config/mtrsteamloco.json"
+hash = "ec2fe1b168b355b344ee7c1aabe7ba2d00bf7c79618a455550239b97df8e48f8"
+
+[[files]]
+file = "config/slideshow.json"
+hash = "916345003a7f1965de88c93e6e837ae5362b818deb94ae30624cd335605c037a"
+
+[[files]]
+file = "config/smoothboot.json"
+hash = "0606ea57121d0307b7444c60602c135f9753c40882b13b9fac7efa9cd7a4fe7d"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "42d45e926c9465ff78e2ea5773507223e063ed632fbf558b99d766c3fdf15070"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "497de4cc3482bf16898d2420fa31a7e3c10c806f008a7f5d0f3fb7ba2f07249c"
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "e8cd685b609577ab23e2a55ec3273a1ff9475daef52f0999b2c5d27f7c795f5c"
+metafile = true
+
+[[files]]
+file = "mods/chat-signing-hider.pw.toml"
+hash = "d4c5bbe95534b3f52b186514550a38b196e94110b9ad3910a1c09b84b4393289"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "d1dc8ac9ea0e5aed978c464ff34e460924dfc44d518eece4abbbfb9a5d49abf8"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
+metafile = true
+
+[[files]]
+file = "mods/entity-collision-fps-fix.pw.toml"
+hash = "d614e471929c4906f85ba776600e0cfa9b0d958ce55121efd49c9ffd4ff00a04"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
+metafile = true
+
+[[files]]
+file = "mods/forcecloseworldloadingscreen.pw.toml"
+hash = "0c7c2c37874d5341092e6c63f95f4f95d7fa804e1c28ea9e83c1ed5115dcf12f"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "fd0d31c123f53fb70d79e3ac5333dc9178b378c87d46eb0b8f63db324f67fe51"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "af3675c9022d8669af5486c58fa9a685189a579a772a4c2ea5705bbe29bb169d"
+metafile = true
+
+[[files]]
+file = "mods/item-model-fix.pw.toml"
+hash = "e6895b572857d6381b9c5c8d153eb6606b3cd2755feec53ff3905d025656a124"
+metafile = true
+
+[[files]]
+file = "mods/jcm.pw.toml"
+hash = "e2ce890a206d6ad6807c2bc85559159eef55426566e982c4e05c14d3ae7033f7"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "cfd9e5d05e671d4229d2afee38ba971004ada26cb99f41523d42a1bc1c0aacfe"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-transit-railway.pw.toml"
+hash = "a8c9353a4a5b4d08823f39e13dd10f04e1c884e5fa5aedae511a26d111a76d8a"
+metafile = true
+
+[[files]]
+file = "mods/minecraftclientgobrrr.pw.toml"
+hash = "467ac4c5d26ae66f72d881f38b6de4d9285f12bffb9ae550776864d232fe9d64"
+metafile = true
+
+[[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "df5e976dd854052834a5594dce202ca8a685f2b2b161443dc90d79d79d64d107"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
+metafile = true
+
+[[files]]
+file = "mods/mtr-nte.pw.toml"
+hash = "3e259460e9ddc91b8d5d870adc3854b3cd947247de34cd2bcfb561beb03e09bc"
+metafile = true
+
+[[files]]
+file = "mods/mtrotp.jar"
+hash = "a75f833d6e851ebdf3df33a6ac53fc83b30fe6512973e7fa6655aa613a1016f5"
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
+metafile = true
+
+[[files]]
+file = "mods/server-redirect.pw.toml"
+hash = "b81178aa9b0caa333ea476562d1119f0fdf014c3e37b93c8b2338149648de88c"
+metafile = true
+
+[[files]]
+file = "mods/slideshow.jar"
+hash = "916695cad0b1595a7a239d5d19bc1ab3f244d19430a5c769c923bee3e0d3d261"
+
+[[files]]
+file = "mods/smoothboot-fabric.pw.toml"
+hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "8da0d4c285e7e57aee3f08ab4e268d04518704ace4060744f042aef3a7f6bc50"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/station-decoration.pw.toml"
+hash = "19c234dccae3896624b605a204e738f4117913f963210c1da27d696fe457e2d1"
+metafile = true
+
+[[files]]
+file = "mods/time-wind.pw.toml"
+hash = "9047965bc4ec80b16dee8bf33c23775c49fb5f8692ebfabece0b6533be0006ca"
+metafile = true
+
+[[files]]
+file = "mods/wi-zoom.pw.toml"
+hash = "1517d493420746a88646030c9b7e4ec4e3fe7da41b797b47cbe8209f940b1b70"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "8bfa8bce8b74334e92603a8688dac3a2cb89682d20f1eb17c39b87922b810540"
+
+[[files]]
+file = "servers.dat"
+hash = "54ca797a3c325deb2a7f6460adf2d570e2db2d242ee99419abc05fdc3e836807"

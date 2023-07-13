@@ -1,0 +1,13 @@
+name = "Server Redirect"
+filename = "ServerRedirect-FabricMC19-1.4.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YqkxTQEh/versions/1.4.4/ServerRedirect-FabricMC19-1.4.4.jar"
+hash-format = "sha1"
+hash = "ad23f3ce9e4ea176002db7a19e59d2efb5a872be"
+
+[update]
+[update.modrinth]
+mod-id = "YqkxTQEh"
+version = "ic0ixk8k"
