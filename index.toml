@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtr-nte.pw.toml"
-hash = "3e259460e9ddc91b8d5d870adc3854b3cd947247de34cd2bcfb561beb03e09bc"
+hash = "050181aaa0e649c91ea5ff89c0e6a1d2bb3308c956c2a953a80c5af6ca7f28d6"
 metafile = true
 
 [[files]]
