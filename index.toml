@@ -50,7 +50,7 @@ hash = "ec2fe1b168b355b344ee7c1aabe7ba2d00bf7c79618a455550239b97df8e48f8"
 
 [[files]]
 file = "config/slideshow.json"
-hash = "916345003a7f1965de88c93e6e837ae5362b818deb94ae30624cd335605c037a"
+hash = "4ade117d10c1708d6f70844ab4ba4dc74c47ce3a71b9d916733d6f944ec44fdf"
 
 [[files]]
 file = "config/smoothboot.json"
@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/slideshow.jar"
-hash = "916695cad0b1595a7a239d5d19bc1ab3f244d19430a5c769c923bee3e0d3d261"
+hash = "c47f92eefe6ad2f05be822684ed2258dd0d68ab5e0e4d61f188536f4020cf616"
 
 [[files]]
 file = "mods/smoothboot-fabric.pw.toml"
