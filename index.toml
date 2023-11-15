@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-redirect.pw.toml"
-hash = "b81178aa9b0caa333ea476562d1119f0fdf014c3e37b93c8b2338149648de88c"
+hash = "827ee931d46a44e8bc3b90a009f352d6e6b0a0a780f7b99c722c5b3183f128d1"
 metafile = true
 
 [[files]]
