@@ -65,6 +65,11 @@ file = "config/sodium-options.json"
 hash = "497de4cc3482bf16898d2420fa31a7e3c10c806f008a7f5d0f3fb7ba2f07249c"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "b25059cd43f681fbd3447f29d355eda0ede4800b3b11cb680ca2889a92be180f"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "7a09d8f7570772fb01a2d8bfc21b058b7b26fb395ddb9184e84ef847279dba4b"
 metafile = true
@@ -86,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "17311c8148c846b880718d5368efdc7eb31e54ee4c0ab0f6e3fe466ea8af3a3d"
+hash = "70aec7213867514755ddfe86bee5c04aaa7aaac3e966c0d8845298f3c59d137d"
 metafile = true
 
 [[files]]
@@ -141,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "a8c9353a4a5b4d08823f39e13dd10f04e1c884e5fa5aedae511a26d111a76d8a"
+hash = "65257577a965cb2904bf68154293736fe4dedd397cb538c55b8ab54022d9be09"
 metafile = true
 
 [[files]]
@@ -220,6 +225,11 @@ metafile = true
 [[files]]
 file = "mods/station-decoration.pw.toml"
 hash = "19c234dccae3896624b605a204e738f4117913f963210c1da27d696fe457e2d1"
+metafile = true
+
+[[files]]
+file = "mods/the-tube.pw.toml"
+hash = "ad066fba42b6ad4fbdddfd9f30b23b28d3a436ee9e56e3dd87cbdee68bdc1d64"
 metafile = true
 
 [[files]]
