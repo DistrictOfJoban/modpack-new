@@ -1,6 +1,7 @@
 name = "Minecraft Transit Railway (Automated trains, planes, and more!)"
 filename = "MTR-fabric-1.19.2-3.2.2-hotfix-1.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

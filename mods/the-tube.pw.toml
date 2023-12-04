@@ -1,6 +1,7 @@
 name = "The Tube"
 filename = "MTR-LU-Addon-fabric-1.19.2-3.2.0-2.0.8.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/jrAXj11W/versions/2J4pTSBu/MTR-LU-Addon-fabric-1.19.2-3.2.0-2.0.8.jar"

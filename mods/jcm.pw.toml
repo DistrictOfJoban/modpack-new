@@ -1,6 +1,7 @@
 name = "Joban Client Mod"
 filename = "Joban-Client-Mod-1.19.2-1.2.2.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/lQqKCDhg/versions/3iTM5zFY/Joban-Client-Mod-1.19.2-1.2.2.jar"
