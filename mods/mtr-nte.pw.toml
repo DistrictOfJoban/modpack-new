@@ -1,14 +1,7 @@
-name = "Nemo's Transit Expansion"
-filename = "MTR-NTE-fabric-1.19.2-0.3.3.jar"
-side = "both"
-pin = true
+name = "mtr-nte"
+filename = "MTR-NTE-0.4.1+1.19.2.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/8pXSjgW8/versions/hwV8kBZM/MTR-NTE-fabric-1.19.2-0.3.3.jar"
-hash-format = "sha1"
-hash = "3f48c0ca3c1c5798ddc1f7908741fe988cda40a0"
-
-[update]
-[update.modrinth]
-mod-id = "8pXSjgW8"
-version = "hwV8kBZM"
+url = "https://github.com/DistrictOfJoban/mtr-nte-json/releases/download/0.4.1/MTR-NTE-0.4.1+1.19.2.jar"
+hash-format = "sha256"
+hash = "0473bdfd3b2d05a685964bb57b904099e0a37b3667f03c83b6e585ad591b9c96"
