@@ -194,8 +194,9 @@ hash = "827ee931d46a44e8bc3b90a009f352d6e6b0a0a780f7b99c722c5b3183f128d1"
 metafile = true
 
 [[files]]
-file = "mods/slideshow.jar"
-hash = "c47f92eefe6ad2f05be822684ed2258dd0d68ab5e0e4d61f188536f4020cf616"
+file = "mods/slideshow.pw.toml"
+hash = "458c469ecd0eb303b145e8c6994109fdb0c97db676b280f1227d1d605e78cf7d"
+metafile = true
 
 [[files]]
 file = "mods/smoothboot-fabric.pw.toml"
