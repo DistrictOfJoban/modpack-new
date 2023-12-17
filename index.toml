@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ef6a2fce03bfeeb2f7186c9ef1277900956756e1ad09714893241c21d5205aa7"
+hash = "313c457d73b874537682092b4b6d4ba66e3e1181d5f3f9349506d9668c190961"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ hash = "a75f833d6e851ebdf3df33a6ac53fc83b30fe6512973e7fa6655aa613a1016f5"
 
 [[files]]
 file = "mods/no-telemetry.pw.toml"
-hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
+hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
 metafile = true
 
 [[files]]
