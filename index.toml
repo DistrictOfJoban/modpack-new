@@ -50,7 +50,7 @@ hash = "ec2fe1b168b355b344ee7c1aabe7ba2d00bf7c79618a455550239b97df8e48f8"
 
 [[files]]
 file = "config/slideshow.json"
-hash = "4ade117d10c1708d6f70844ab4ba4dc74c47ce3a71b9d916733d6f944ec44fdf"
+hash = "bc17205cd9ec9a4d0e91391fb524a8c7366be0153d07e66cfd2c91c623cee844"
 
 [[files]]
 file = "config/smoothboot.json"
@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-signing-hider.pw.toml"
-hash = "d4c5bbe95534b3f52b186514550a38b196e94110b9ad3910a1c09b84b4393289"
+hash = "87981b02964c1ef5d4dae1bac5ba944a896351749650170caa29c4a780637474"
 metafile = true
 
 [[files]]
@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "2150620548431128cf031c52de85d3ac42beabc688f0b1c705fc5c2eb8d3003d"
+hash = "bc78889d256207c2df24301222b4856bf5902c718c78eedae8affe1826efb744"
 metafile = true
 
 [[files]]
