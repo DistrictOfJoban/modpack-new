@@ -1,7 +1,7 @@
 name = "mtr-nte"
-filename = "MTR-NTE-0.4.1+1.19.2.jar"
+filename = "MTR-NTE-0.4.2+joban+1.19.2.jar"
 
 [download]
-url = "https://github.com/DistrictOfJoban/mtr-nte-json/releases/download/0.4.1%2Bfork.2/MTR-NTE-0.4.1+1.19.2.jar"
+url = "https://github.com/DistrictOfJoban/mtr-nte-json/releases/download/0.4.2%2Bfork.3/MTR-NTE-0.4.2+joban+1.19.2.jar"
 hash-format = "sha256"
-hash = "ba5d4d3a30ac6583e9da1dc1b6243ecd9358435293433519aff32d5a5a5bc068"
+hash = "ca900c695904194fd81dcb9e06930c760aebf3e4e515f056be0c58d988c95c5b"
