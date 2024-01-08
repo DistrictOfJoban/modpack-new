@@ -239,6 +239,11 @@ hash = "9047965bc4ec80b16dee8bf33c23775c49fb5f8692ebfabece0b6533be0006ca"
 metafile = true
 
 [[files]]
+file = "mods/timeoutout.pw.toml"
+hash = "79bf46f1892bfb23ff9a69b16d0f9147da33809021f0f2ef2f73ae7d10bbefec"
+metafile = true
+
+[[files]]
 file = "mods/wi-zoom.pw.toml"
 hash = "1517d493420746a88646030c9b7e4ec4e3fe7da41b797b47cbe8209f940b1b70"
 metafile = true
