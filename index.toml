@@ -58,7 +58,7 @@ hash = "0606ea57121d0307b7444c60602c135f9753c40882b13b9fac7efa9cd7a4fe7d"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "08b811b7c56682de9b0fd48938aa23146b1a3c5cdd81e17089b59b328701a5c1"
+hash = "42d45e926c9465ff78e2ea5773507223e063ed632fbf558b99d766c3fdf15070"
 
 [[files]]
 file = "config/sodium-options.json"
@@ -125,6 +125,11 @@ hash = "2b9959e263f54bf08b0151033d9236d2ccf2db03857518ca54f55504fa06673f"
 metafile = true
 
 [[files]]
+file = "mods/joban-rp-helper.pw.toml"
+hash = "8a40483fc8ed4a1a56a2dcc85c4790e5c17d95bb5ee2b629c3c9570dae900ea2"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
 metafile = true
@@ -147,11 +152,6 @@ metafile = true
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
 hash = "4ad8921aa77b620dfbd4b11d5b3a7ce38a6288c9e01c0cf724563272ebee2f87"
-metafile = true
-
-[[files]]
-file = "mods/minecraftclientgobrrr.pw.toml"
-hash = "467ac4c5d26ae66f72d881f38b6de4d9285f12bffb9ae550776864d232fe9d64"
 metafile = true
 
 [[files]]
