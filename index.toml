@@ -70,8 +70,18 @@ hash = "7a09d8f7570772fb01a2d8bfc21b058b7b26fb395ddb9184e84ef847279dba4b"
 metafile = true
 
 [[files]]
+file = "mods/carpet.pw.toml"
+hash = "bdbd1702ca9ef924f07d01d34c21feaa1f07a428bdfb81be856afe7ff44eed19"
+metafile = true
+
+[[files]]
 file = "mods/chat-signing-hider.pw.toml"
 hash = "87981b02964c1ef5d4dae1bac5ba944a896351749650170caa29c4a780637474"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "6a8750f9a1cc5dd9997bd7ccda4b6c4aedc9816d9368c3c3601296d6ee78b9bc"
 metafile = true
 
 [[files]]
@@ -86,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d6b5b39cfbe821c74aef77da9957b9eed5a76b9554aaed62a2c5f78905e27679"
+hash = "5197e9172dd9a9b06303b85a837e7a044b71c005b3d0003aa19041a253daf541"
 metafile = true
 
 [[files]]
@@ -97,6 +107,11 @@ metafile = true
 [[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
 hash = "0c7c2c37874d5341092e6c63f95f4f95d7fa804e1c28ea9e83c1ed5115dcf12f"
+metafile = true
+
+[[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "a30cf979b3c893e258b3f45358bbad30bcf446d75bc2c6478d40a4ab56f72e98"
 metafile = true
 
 [[files]]
@@ -179,6 +194,11 @@ hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
 metafile = true
 
 [[files]]
+file = "mods/paragraphs.pw.toml"
+hash = "ecd6ea78b1c7874e10691e9767773cb5af582469b2cafb6b6b8bbd42545dd1a4"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "17651adb28b085101dcded29ef037e6622849a98b21d1c1872185e7b241a32f6"
 metafile = true
@@ -210,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
+hash = "3bb7d26e67dc8309e99535af81be746dd38e706f062de4046ef4c564ed7dc69d"
 metafile = true
 
 [[files]]
@@ -235,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/timeoutout.pw.toml"
-hash = "79bf46f1892bfb23ff9a69b16d0f9147da33809021f0f2ef2f73ae7d10bbefec"
+hash = "280c8047494f45ed541b9b12439b684b203031ba75a779d0f5cd3cac4542af69"
 metafile = true
 
 [[files]]

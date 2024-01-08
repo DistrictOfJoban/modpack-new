@@ -1,0 +1,17 @@
+name = "Paragraphs"
+filename = "paragraphs-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iDOOi3yS/versions/OXOoLCxH/paragraphs-1.0.jar"
+hash-format = "sha1"
+hash = "dace1f021079459dc8d4b8fbab78b1feefc7b5cb"
+
+[update]
+[update.modrinth]
+mod-id = "iDOOi3yS"
+version = "OXOoLCxH"
+
+[option]
+optional = true
+description = "For Builder; Allow you to use the § color sign in-game"
