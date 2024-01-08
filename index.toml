@@ -65,11 +65,6 @@ file = "config/sodium-options.json"
 hash = "497de4cc3482bf16898d2420fa31a7e3c10c806f008a7f5d0f3fb7ba2f07249c"
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "b25059cd43f681fbd3447f29d355eda0ede4800b3b11cb680ca2889a92be180f"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "7a09d8f7570772fb01a2d8bfc21b058b7b26fb395ddb9184e84ef847279dba4b"
 metafile = true
