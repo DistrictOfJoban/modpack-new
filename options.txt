@@ -4,7 +4,7 @@ autoSuggestions:true
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
-enableVsync:false
+enableVsync:true
 entityShadows:true
 forceUnicodeFont:false
 discrete_mouse_scroll:false
@@ -18,7 +18,7 @@ fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
-darkMojangStudiosBackground:true
+darkMojangStudiosBackground:false
 hideLightningFlashes:false
 mouseSensitivity:0.5563380281690141
 fov:0.0
@@ -26,7 +26,7 @@ screenEffectScale:1.0
 fovEffectScale:1.0
 darknessEffectScale:1.0
 gamma:1.0
-renderDistance:20
+renderDistance:24
 simulationDistance:12
 entityDistanceScaling:1.0
 guiScale:2
@@ -36,7 +36,7 @@ graphicsMode:0
 ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
-renderClouds:"false"
+renderClouds:"true"
 resourcePacks:["vanilla","Fabric Mods"]
 lastServer:
 lang:en_us
