@@ -25,6 +25,10 @@ file = "config/iris.properties"
 hash = "bba1289d81972eb3395779b0c632849d5641e48d84fb2e64b2051b653f996f77"
 
 [[files]]
+file = "config/jbrph.json"
+hash = "061b5d155b9120b7d3f021b977897b4f383034382dd6194696d14e72789bc535"
+
+[[files]]
 file = "config/jsclient.json"
 hash = "c6e2e3f0645a1b60b213b0a7387887479761047b7b0750250361d359795ae413"
 

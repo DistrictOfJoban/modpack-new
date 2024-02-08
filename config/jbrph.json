@@ -1,0 +1,11 @@
+{
+  "requestTimeoutSec": 10,
+  "packs": [
+    {
+      "sourceUrl": "https://www.joban.org/pack/Joban_Pack.zip",
+      "hashUrl": "https://www.joban.org/pack/sha1.txt",
+      "fileName": "Joban_SRP.zip",
+      "name": "Joban Pack"
+    }
+  ]
+}
