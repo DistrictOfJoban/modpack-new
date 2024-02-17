@@ -139,11 +139,6 @@ hash = "2b9959e263f54bf08b0151033d9236d2ccf2db03857518ca54f55504fa06673f"
 metafile = true
 
 [[files]]
-file = "mods/joban-rp-helper.pw.toml"
-hash = "86773545bb9a1978e2d0cbc3cd9a3802de452bed72b13f6dabec6bb993ccf3d0"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
 metafile = true
@@ -205,6 +200,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "17651adb28b085101dcded29ef037e6622849a98b21d1c1872185e7b241a32f6"
+metafile = true
+
+[[files]]
+file = "mods/rp-helper.pw.toml"
+hash = "65fc0a1b38aa861a5f1d35c95ee4cd535ef4023901c4f86b45bea70d088619cb"
 metafile = true
 
 [[files]]
