@@ -1,13 +1,13 @@
 name = "Chat Signing Hider"
-filename = "chatsigninghider-fabric-1.19.2-1.0.3.jar"
+filename = "chatsigninghider-fabric-1.19.2-1.0.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/6KrNtW32/versions/RkLgwkZM/chatsigninghider-fabric-1.19.2-1.0.3.jar"
+url = "https://cdn.modrinth.com/data/6KrNtW32/versions/wUlrHtpZ/chatsigninghider-fabric-1.19.2-1.0.4.jar"
 hash-format = "sha1"
-hash = "42ed18b48613b9fd01f44a44b5fa83f83025292f"
+hash = "49a34757c5522295dcfda4d7ed96537c18b39ff9"
 
 [update]
 [update.modrinth]
 mod-id = "6KrNtW32"
-version = "RkLgwkZM"
+version = "wUlrHtpZ"
