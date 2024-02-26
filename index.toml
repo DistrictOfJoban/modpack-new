@@ -56,7 +56,7 @@ preserve = true
 
 [[files]]
 file = "config/mtr.json"
-hash = "e11a130ff6cb3d7c5cc8c971eda508dfbc7c9989932905718cad3cd5c3df2c13"
+hash = "9ba18f78cc9432b84966bd99e40b52e850c2e38ee1b251f3c037d6c28757ee7e"
 
 [[files]]
 file = "config/mtrsteamloco.json"
