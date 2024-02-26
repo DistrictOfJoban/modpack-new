@@ -3,26 +3,32 @@ hash-format = "sha256"
 [[files]]
 file = "config/betterf3.json"
 hash = "bf1e575f6a5fde4ec69b55af438e520bcdaf1d4781817893511e3ddd65d4bbd3"
+preserve = true
 
 [[files]]
 file = "config/enhanced_bes.properties"
 hash = "dc9209ce3cbb6392c1fe10af7e5ab1846130625d7f2e411f8f488f83d252e2cb"
+preserve = true
 
 [[files]]
 file = "config/entityculling.json"
 hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
+preserve = true
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "e252e0ec8ce9bc7c8b60c2af88ff26aa70dd951128224edaa8d555e3d82f82ae"
+preserve = true
 
 [[files]]
 file = "config/forcecloseloadingscreen.json"
 hash = "e61ff488eb2d79169f56667e0e83eb65354270471d3aff072c512c5ca295884c"
+preserve = true
 
 [[files]]
 file = "config/iris.properties"
 hash = "bba1289d81972eb3395779b0c632849d5641e48d84fb2e64b2051b653f996f77"
+preserve = true
 
 [[files]]
 file = "config/jbrph.json"
@@ -31,18 +37,22 @@ hash = "061b5d155b9120b7d3f021b977897b4f383034382dd6194696d14e72789bc535"
 [[files]]
 file = "config/jsclient.json"
 hash = "c6e2e3f0645a1b60b213b0a7387887479761047b7b0750250361d359795ae413"
+preserve = true
 
 [[files]]
 file = "config/lambdynlights.toml"
 hash = "a389e997fe8d6462b5a2a003f8bf6edf431d3834e9e205c2da282e89c3577ffc"
+preserve = true
 
 [[files]]
 file = "config/modmenu.json"
 hash = "b71e7dcbf20f58a07d18e6a159c37800e3f2b00ba80e8d4cb71b2063a7bba6fd"
+preserve = true
 
 [[files]]
 file = "config/msd.json"
 hash = "a01d22a4d312eb1aacae5e40d0dd11b541c62f5e1d0464e76b49ba11c0aa23ab"
+preserve = true
 
 [[files]]
 file = "config/mtr.json"
@@ -51,22 +61,27 @@ hash = "e11a130ff6cb3d7c5cc8c971eda508dfbc7c9989932905718cad3cd5c3df2c13"
 [[files]]
 file = "config/mtrsteamloco.json"
 hash = "ec2fe1b168b355b344ee7c1aabe7ba2d00bf7c79618a455550239b97df8e48f8"
+preserve = true
 
 [[files]]
 file = "config/slideshow.json"
 hash = "bc17205cd9ec9a4d0e91391fb524a8c7366be0153d07e66cfd2c91c623cee844"
+preserve = true
 
 [[files]]
 file = "config/smoothboot.json"
 hash = "0606ea57121d0307b7444c60602c135f9753c40882b13b9fac7efa9cd7a4fe7d"
+preserve = true
 
 [[files]]
 file = "config/sodium-extra-options.json"
 hash = "08b811b7c56682de9b0fd48938aa23146b1a3c5cdd81e17089b59b328701a5c1"
+preserve = true
 
 [[files]]
 file = "config/sodium-options.json"
 hash = "497de4cc3482bf16898d2420fa31a7e3c10c806f008a7f5d0f3fb7ba2f07249c"
+preserve = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
