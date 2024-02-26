@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-signing-hider.pw.toml"
-hash = "87981b02964c1ef5d4dae1bac5ba944a896351749650170caa29c4a780637474"
+hash = "0fe0f3d68d47838cf9ef505643071e24bc8cadbd9c724f951ccf2b2ddf36f7e5"
 metafile = true
 
 [[files]]
