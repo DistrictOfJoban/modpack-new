@@ -213,6 +213,10 @@ hash = "ecd6ea78b1c7874e10691e9767773cb5af582469b2cafb6b6b8bbd42545dd1a4"
 metafile = true
 
 [[files]]
+file = "mods/quit_lo.jar"
+hash = "7eb7723be2a539898dbbf3959516cf538cf07bb3654f51690586425f8df1ead5"
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "17651adb28b085101dcded29ef037e6622849a98b21d1c1872185e7b241a32f6"
 metafile = true
