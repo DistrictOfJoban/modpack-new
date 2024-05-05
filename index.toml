@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/paragraphs.pw.toml"
-hash = "0cf7826f5e96d2b8cbbd1546915d2f7669a9e36bfa1cc8836c812e0793403253"
+hash = "d65d376fc8ebd6bded1ff12551e09274322a7365826640a849587547ec8bf324"
 metafile = true
 
 [[files]]
