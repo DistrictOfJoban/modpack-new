@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "cdbe71d715fb02845b58804bd573103527b0a8ab3c779cef4524ffa414092780"
+hash = "193be959657e654b99f53d45ebb2f10f655620f4b67d16df01f757bc43efe0ef"
 metafile = true
 
 [[files]]
