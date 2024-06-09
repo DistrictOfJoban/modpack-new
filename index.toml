@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "4ac6e112eae68c7184ced584150bfc6094ab3408531f4bb4dd9ab4e6c831f6d6"
+hash = "581c7f7b4592b8304ce066a588961b11dc55dfa15d131d9ab343beda43f11ca8"
 metafile = true
 
 [[files]]
@@ -289,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "922eb3d398ba8f41b8142029d2296d6e634f4ae807aee6601f4510f3e99e3bd8"
+hash = "a5647298c8b990eb7719f1ac00e826ace7bddc82583803e9a48e909c083d197e"
 metafile = true
 
 [[files]]
