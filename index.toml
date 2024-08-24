@@ -134,6 +134,11 @@ hash = "a30cf979b3c893e258b3f45358bbad30bcf446d75bc2c6478d40a4ab56f72e98"
 metafile = true
 
 [[files]]
+file = "mods/gcaps.pw.toml"
+hash = "0ef92273358e7bcda7dae9c330f7de4fc83c54d80b6ddb702f482605443efa2e"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "865ffbf85ebd23860b712a6c0bd1857d0816c36415443a5e32d9aa385ff625d4"
 metafile = true

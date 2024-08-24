@@ -1,0 +1,7 @@
+name = "gcaps"
+filename = "gcaps-1.0.0.jar"
+
+[download]
+url = "https://github.com/DistrictOfJoban/gcaps-fabric/releases/download/1.0.0%2B1.19.2/gcaps-1.0.0.jar"
+hash-format = "sha256"
+hash = "c7f82cfa1aa95ade06988a13125af71966f0024de0c0c0abcb2ebc443cb2a430"
