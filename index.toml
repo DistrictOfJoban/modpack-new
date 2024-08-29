@@ -31,10 +31,6 @@ hash = "bba1289d81972eb3395779b0c632849d5641e48d84fb2e64b2051b653f996f77"
 preserve = true
 
 [[files]]
-file = "config/jbrph.json"
-hash = "061b5d155b9120b7d3f021b977897b4f383034382dd6194696d14e72789bc535"
-
-[[files]]
 file = "config/jsclient.json"
 hash = "c6e2e3f0645a1b60b213b0a7387887479761047b7b0750250361d359795ae413"
 preserve = true
@@ -62,6 +58,10 @@ hash = "9ba18f78cc9432b84966bd99e40b52e850c2e38ee1b251f3c037d6c28757ee7e"
 file = "config/mtrsteamloco.json"
 hash = "ec2fe1b168b355b344ee7c1aabe7ba2d00bf7c79618a455550239b97df8e48f8"
 preserve = true
+
+[[files]]
+file = "config/rphelper/config.json"
+hash = "ecacba47b0ec596685b2eb39cc56512b28af44e37ea8aad638a607c732101afa"
 
 [[files]]
 file = "config/slideshow.json"
@@ -228,8 +228,8 @@ hash = "17651adb28b085101dcded29ef037e6622849a98b21d1c1872185e7b241a32f6"
 metafile = true
 
 [[files]]
-file = "mods/rp-helper.pw.toml"
-hash = "8a707d5debc8adbceb7b7dfde482e400c64aa8a18aae4226e964718a53d8f5fe"
+file = "mods/rphelper.pw.toml"
+hash = "d578f1ccd9758158fcc0cba37b6d92c35f2ff4225ebb610e35d7d9b9469fdcaf"
 metafile = true
 
 [[files]]
