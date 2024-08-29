@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "193be959657e654b99f53d45ebb2f10f655620f4b67d16df01f757bc43efe0ef"
+hash = "c8ad3f88354bebbbb86291901c6b3c32535d0e88e54b5574ee11eedddeb09356"
 metafile = true
 
 [[files]]
@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/paragraphs.pw.toml"
-hash = "d65d376fc8ebd6bded1ff12551e09274322a7365826640a849587547ec8bf324"
+hash = "b98e202aa188cc46dd42b82e7f155653bb0eac9676bc294e28bd30cda29f381d"
 metafile = true
 
 [[files]]
@@ -299,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "a5647298c8b990eb7719f1ac00e826ace7bddc82583803e9a48e909c083d197e"
+hash = "cd5aa5bd859127c999dfdcb3d8dec89ad3c7656895b11675b30771c12d473deb"
 metafile = true
 
 [[files]]
