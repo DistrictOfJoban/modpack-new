@@ -1,7 +1,7 @@
 name = "rphelper"
-filename = "RPHelper-1.1.0.jar"
+filename = "RPHelper-1.1.1.jar"
 
 [download]
-url = "https://github.com/DistrictOfJoban/RPHelper/releases/download/1.1.0/RPHelper-1.1.0.jar"
+url = "https://github.com/DistrictOfJoban/RPHelper/releases/download/1.1.1/RPHelper-1.1.1.jar"
 hash-format = "sha256"
-hash = "9cccec20b690fd4a8e989994124f06647a350f07ad5b14f3bf847d9904e2d4a3"
+hash = "e9ae81f3900e0da491cdabd4a290899ff87df414e985b442a05e71923c9cf1e9"
