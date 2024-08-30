@@ -233,11 +233,6 @@ hash = "e773d1071792b90b3bcdf46696f743564ba82222dca973504f71290d6bd8b4f4"
 metafile = true
 
 [[files]]
-file = "mods/server-redirect.pw.toml"
-hash = "827ee931d46a44e8bc3b90a009f352d6e6b0a0a780f7b99c722c5b3183f128d1"
-metafile = true
-
-[[files]]
 file = "mods/slideshow.pw.toml"
 hash = "458c469ecd0eb303b145e8c6994109fdb0c97db676b280f1227d1d605e78cf7d"
 metafile = true
