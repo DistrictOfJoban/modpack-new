@@ -233,6 +233,11 @@ hash = "e773d1071792b90b3bcdf46696f743564ba82222dca973504f71290d6bd8b4f4"
 metafile = true
 
 [[files]]
+file = "mods/rrls.pw.toml"
+hash = "29e0b795b815a2c9d1f59f685bd6c6cabcab64b321cf8470365d026c70292e2f"
+metafile = true
+
+[[files]]
 file = "mods/slideshow.pw.toml"
 hash = "458c469ecd0eb303b145e8c6994109fdb0c97db676b280f1227d1d605e78cf7d"
 metafile = true
