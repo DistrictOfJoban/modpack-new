@@ -1,0 +1,17 @@
+name = "Xaero's World Map"
+filename = "XaerosWorldMap_1.39.0_Fabric_1.19.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NcUtCpym/versions/BfwRgizH/XaerosWorldMap_1.39.0_Fabric_1.19.1.jar"
+hash-format = "sha1"
+hash = "b2653d291744414eea029a37a858aa5eb18598e8"
+
+[update]
+[update.modrinth]
+mod-id = "NcUtCpym"
+version = "BfwRgizH"
+
+[option]
+optional = true
+description = "World Map help you pinpoint exactly where you are!"
