@@ -1,7 +1,13 @@
-name = "mtr-nte"
-filename = "MTR-NTE-0.5.2+joban+1.19.2.jar"
+name = "Nemo's Transit Expansion"
+filename = "MTR-NTE-0.5.2+1.19.2.jar"
+side = "client"
 
 [download]
-url = "https://github.com/DistrictOfJoban/mtr-nte-json/releases/download/0.5.2%2Bfork.5/MTR-NTE-0.5.2+joban+1.19.2.jar"
-hash-format = "sha256"
-hash = "cb7f8fdb0eb8c03e638a70b8b24db399b9afd5fe7a59542c2888bbbf451f0071"
+url = "https://cdn.modrinth.com/data/8pXSjgW8/versions/t6W3sW39/MTR-NTE-0.5.2%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "a72bd3938a13aac198dba4f1d2f3800e254a30d9"
+
+[update]
+[update.modrinth]
+mod-id = "8pXSjgW8"
+version = "t6W3sW39"
