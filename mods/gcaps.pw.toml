@@ -1,7 +1,7 @@
 name = "gcaps"
-filename = "gcaps-1.0.0-hotfix-1.jar"
+filename = "gcaps-1.0.0.jar"
 
 [download]
-url = "https://github.com/DistrictOfJoban/gcaps-fabric/releases/download/1.0.0%2B1.19.2/gcaps-1.0.0-hotfix-1.jar"
+url = "https://github.com/DistrictOfJoban/gcaps-fabric/releases/download/1.0.0%2B1.19.4/gcaps-1.0.0.jar"
 hash-format = "sha256"
-hash = "c5d8cb6202cadcdea8beb3c85cfe737cd4de973665ce799788ce619ba9126d65"
+hash = "c1ab3b5a2fcbbaf8aab752a73f70d70b2e19ee006ffe344bb97c4e2757f29a3a"

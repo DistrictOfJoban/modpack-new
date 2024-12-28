@@ -4,7 +4,7 @@
   "use_tts_announcements": false,
   "hide_special_rail_colors": false,
   "hide_translucent_parts": false,
-  "shift_to_toggle_sitting": true,
+  "shift_to_toggle_sitting": false,
   "language_options": 0,
   "track_texture_offset": 0,
   "dynamic texture resolution": 1,

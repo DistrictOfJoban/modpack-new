@@ -1,14 +1,14 @@
-name = "Minecraft Transit Railway (Automated trains, planes, and more!)"
-filename = "MTR-fabric-1.19.2-3.2.2-hotfix-1.jar"
+name = "Minecraft Transit Railway"
+filename = "MTR-fabric-1.19.4-3.2.2-hotfix-1.jar"
 side = "both"
 pin = true
 
 [download]
+url = "https://cdn.modrinth.com/data/XKPAmI6u/versions/UT2U5yfn/MTR-fabric-1.19.4-3.2.2-hotfix-1.jar"
 hash-format = "sha1"
-hash = "eb9ef66565792eae34882a2f52d1a595aa5e7b89"
-mode = "metadata:curseforge"
+hash = "983e9bfeda341f4602c28fe09a8e0f53bf641908"
 
 [update]
-[update.curseforge]
-file-id = 4505539
-project-id = 266707
+[update.modrinth]
+mod-id = "XKPAmI6u"
+version = "UT2U5yfn"
