@@ -253,12 +253,12 @@ metafile = true
 
 [[files]]
 file = "mods/station-decoration.pw.toml"
-hash = "ff8a60510a0b74d5bab2acd2f57fe2c7144886195eae3b2446b341409db675ac"
+hash = "af2ca29caf5ddd98dc227428e1a52a58499d79b80e67a5de508177d3c95b4b61"
 metafile = true
 
 [[files]]
 file = "mods/the-tube.pw.toml"
-hash = "15f15d87f7a453d6e359b87d00ce4198141d79b856fa224f5a313bb0c7bb5d30"
+hash = "399249e5d32517c3ec7441fa6071667827547c3475e6e8d7cb62e55af63c7a82"
 metafile = true
 
 [[files]]
