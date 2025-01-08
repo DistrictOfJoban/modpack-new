@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/rphelper.pw.toml"
-hash = "25f6cab8d16508ffcb20a55eb9119e63eaa7b4c755f320ee69a6075444196a91"
+hash = "f0595c2a6d11c81d7e14e73422fc79530fce685c2cbfcd0c5aa527e1581df858"
 metafile = true
 
 [[files]]
