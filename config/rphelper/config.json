@@ -4,7 +4,7 @@
       "sourceUrl": "https://www.joban.org/pack/Joban_Pack.zip",
       "sha1Url": "https://www.joban.org/pack/sha1.txt",
       "fileName": "Joban_SRP.zip",
-      "equivPacks": ["file/Joban Pack", "file/Joban_Pack"],
+      "equivPacks": ["file/Joban Pack", "file/Joban_Pack", "file/Joban-Pack"],
       "name": "Joban Pack"
     }
   ],
