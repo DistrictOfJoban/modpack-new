@@ -132,8 +132,8 @@ hash = "6d08bb598b04ab1cbeadf1f1cea0189560336991db5f8b1bd960151d51527ad8"
 metafile = true
 
 [[files]]
-file = "mods/gcaps.pw.toml"
-hash = "4140f1172458911a432deae2f4ae1476d6c1d5a479eb3077f838aac723099e67"
+file = "mods/gcaps-fabric.pw.toml"
+hash = "38ef7f5a1cb7212e00726117f04d579ad84589f9a9f1e97f4263b15b7030e765"
 metafile = true
 
 [[files]]
@@ -197,8 +197,8 @@ hash = "cdfe315944e0456ca921c4a9fb72af24e7d882d78882ad793649e1484465ce74"
 metafile = true
 
 [[files]]
-file = "mods/mtrotp.pw.toml"
-hash = "36d68792f66c98b5b3d205e5659a9e4d719810e08e67566143218303345f8c29"
+file = "mods/mtr-otp.pw.toml"
+hash = "29b755bcdc7dd4c4adaffa7e098e398d72f160c7d6e416a9b40dc25800462d60"
 metafile = true
 
 [[files]]
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/rphelper.pw.toml"
-hash = "de6034102e53901f117fd60aea5dde6095c57b98e89b18091a324479af1db7f3"
+hash = "589f2e5d49000a78bf27b8c4c882148cf32d7fc049eb91c3d7e8925713cc28dd"
 metafile = true
 
 [[files]]
