@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-telemetry.pw.toml"
-hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
+hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
 metafile = true
 
 [[files]]
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "01c61f82ea380fa821abaad725d6c5ad8f93da9208f1d14097c9c5bcdfa912c2"
+hash = "5bfb13f635be0b9ce55bfcabe049aab443cf1204baa0447573169e5d50d80ce3"
 metafile = true
 
 [[files]]
