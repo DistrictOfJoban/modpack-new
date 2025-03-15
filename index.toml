@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "6a8750f9a1cc5dd9997bd7ccda4b6c4aedc9816d9368c3c3601296d6ee78b9bc"
+hash = "d79f5b0fee94c1f91ba9c16caaabe8c7f80b1296d52549d95e3d84d069757020"
 metafile = true
 
 [[files]]
@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "581c7f7b4592b8304ce066a588961b11dc55dfa15d131d9ab343beda43f11ca8"
+hash = "963e4ee7c18d117afd443efa7baffd94999356e7e77af4fd29dcb8fa12028bdb"
 metafile = true
 
 [[files]]
@@ -209,7 +209,7 @@ hash = "a75f833d6e851ebdf3df33a6ac53fc83b30fe6512973e7fa6655aa613a1016f5"
 
 [[files]]
 file = "mods/no-telemetry.pw.toml"
-hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
+hash = "8a842b500e29db000d882eaf46fadf52fa56ddf097a5ec3762f61cd251c6aaad"
 metafile = true
 
 [[files]]
@@ -299,12 +299,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "cd5aa5bd859127c999dfdcb3d8dec89ad3c7656895b11675b30771c12d473deb"
+hash = "30360c8409393dbf6b4ef59095dc4460f110ef8ce87d4f964bc30d13d45ae563"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "6b44857fb318af5fb1c80e7b6a082f48a80cb0f7ff81105f1706c31b0bc38971"
+hash = "f6877cbd94d0ff47c8283aaebbb9c7a123ef1c4eed4929f4bfb585946a61e305"
 metafile = true
 
 [[files]]
