@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/rphelper.pw.toml"
-hash = "589f2e5d49000a78bf27b8c4c882148cf32d7fc049eb91c3d7e8925713cc28dd"
+hash = "253bde1acc34de64501706aa8e17f5a0d28ec503fdf16e5e1f854a536ae18775"
 metafile = true
 
 [[files]]
@@ -288,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "5e3cf9a42163e975d26cb694378ae63214bdb788a2e930158f020eeddb4ea210"
+hash = "3939dbb5b4c2e0274e3d07548979e6e0dcb9e7f3cd13e92947727b48487636cd"
 metafile = true
 
 [[files]]
