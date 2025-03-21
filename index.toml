@@ -66,7 +66,7 @@ preserve = true
 
 [[files]]
 file = "config/rphelper/config.json"
-hash = "64e85ef5e1bb526901d7f39843433c80091f1476efc4eb4d839bf1390e8343a3"
+hash = "8054bfceefd6cd5207c7bb0b55a74ea91c43e05e2506dfde52982e95d2671aa3"
 
 [[files]]
 file = "config/rrp.properties"
