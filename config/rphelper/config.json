@@ -1,11 +1,11 @@
 {
   "packs": [
     {
-      "sourceUrl": "https://www.joban.org/pack/Joban_Pack.zip",
-      "sha1Url": "https://www.joban.org/pack/sha1.txt",
-      "fileName": "Joban_SRP.zip",
-      "equivPacks": ["file/Joban Pack", "file/Joban_Pack", "file/Joban-Pack"],
-      "name": "Joban Pack"
+      "sourceUrl": "https://www.joban.org/pack/YNT_Pack.zip",
+      "sha1Url": "https://www.joban.org/pack/sha1_ynt.txt",
+      "fileName": "YNT_Pack.zip",
+      "equivPacks": ["file/pack_ynt", "file/YNT-Pack"],
+      "name": "YNT Pack"
     },
     {
       "sourceUrl": "https://www.joban.org/pack/SKT_Pack.zip",
@@ -13,6 +13,13 @@
       "fileName": "SKT_Pack.zip",
       "equivPacks": ["file/pack_skt", "file/SKT-Pack"],
       "name": "SKT Pack"
+    },
+    {
+      "sourceUrl": "https://www.joban.org/pack/Joban_Pack.zip",
+      "sha1Url": "https://www.joban.org/pack/sha1.txt",
+      "fileName": "Joban_SRP.zip",
+      "equivPacks": ["file/Joban Pack", "file/Joban_Pack", "file/Joban-Pack"],
+      "name": "Joban Pack"
     },
     {
       "sourceUrl": "https://github.com/DistrictOfJoban/Joban-Brand-Pack/releases/download/v1.0.0/Joban-Brand-Pack-1.0.0.zip",
