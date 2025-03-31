@@ -1,17 +1,24 @@
 {
   "packs": [
     {
+      "sourceUrl": "https://www.joban.org/pack/OL_Pack.zip",
+      "sha1Url": "https://www.joban.org/pack/sha1_ol.txt",
+      "fileName": "OL_Pack.zip",
+      "equivPacks": ["file/pack_ol"],
+      "name": "OrchidLink Pack"
+    },
+    {
       "sourceUrl": "https://www.joban.org/pack/YNT_Pack.zip",
       "sha1Url": "https://www.joban.org/pack/sha1_ynt.txt",
       "fileName": "YNT_Pack.zip",
-      "equivPacks": ["file/pack_ynt", "file/YNT-Pack"],
+      "equivPacks": ["file/pack_ynt"],
       "name": "YNT Pack"
     },
     {
       "sourceUrl": "https://www.joban.org/pack/SKT_Pack.zip",
       "sha1Url": "https://www.joban.org/pack/sha1_skt.txt",
       "fileName": "SKT_Pack.zip",
-      "equivPacks": ["file/pack_skt", "file/SKT-Pack"],
+      "equivPacks": ["file/pack_skt"],
       "name": "SKT Pack"
     },
     {
