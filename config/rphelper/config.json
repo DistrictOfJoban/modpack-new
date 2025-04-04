@@ -1,6 +1,13 @@
 {
   "packs": [
     {
+      "sourceUrl": "https://www.joban.org/pack/GM_Pack.zip",
+      "sha1Url": "https://www.joban.org/pack/sha1_gm.txt",
+      "fileName": "GM_Pack.zip",
+      "equivPacks": ["file/pack_gm"],
+      "name": "Grundorf Metro Pack"
+    },
+    {
       "sourceUrl": "https://www.joban.org/pack/OL_Pack.zip",
       "sha1Url": "https://www.joban.org/pack/sha1_ol.txt",
       "fileName": "OL_Pack.zip",
