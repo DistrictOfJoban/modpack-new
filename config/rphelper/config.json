@@ -5,41 +5,47 @@
       "sha1Url": "https://www.joban.org/pack/sha1_gm.txt",
       "fileName": "GM_Pack.zip",
       "equivPacks": ["file/pack_gm"],
-      "name": "Grundorf Metro Pack"
+      "name": "Grundorf Metro Pack",
+      "order": 5
     },
     {
       "sourceUrl": "https://www.joban.org/pack/OL_Pack.zip",
       "sha1Url": "https://www.joban.org/pack/sha1_ol.txt",
       "fileName": "OL_Pack.zip",
       "equivPacks": ["file/pack_ol"],
-      "name": "OrchidLink Pack"
+      "name": "OrchidLink Pack",
+      "order": 4
     },
     {
       "sourceUrl": "https://www.joban.org/pack/YNT_Pack.zip",
       "sha1Url": "https://www.joban.org/pack/sha1_ynt.txt",
       "fileName": "YNT_Pack.zip",
       "equivPacks": ["file/pack_ynt"],
-      "name": "YNT Pack"
+      "name": "YNT Pack",
+      "order": 3
     },
     {
       "sourceUrl": "https://www.joban.org/pack/SKT_Pack.zip",
       "sha1Url": "https://www.joban.org/pack/sha1_skt.txt",
       "fileName": "SKT_Pack.zip",
       "equivPacks": ["file/pack_skt"],
-      "name": "SKT Pack"
+      "name": "SKT Pack",
+      "order": 2
     },
     {
       "sourceUrl": "https://www.joban.org/pack/Joban_Pack.zip",
       "sha1Url": "https://www.joban.org/pack/sha1.txt",
       "fileName": "Joban_SRP.zip",
       "equivPacks": ["file/Joban Pack", "file/Joban_Pack", "file/Joban-Pack"],
-      "name": "Joban Pack"
+      "name": "Joban Pack",
+      "order": 1
     },
     {
       "sourceUrl": "https://github.com/DistrictOfJoban/Joban-Brand-Pack/releases/download/v1.0.0/Joban-Brand-Pack-1.0.0.zip",
       "sha1": "bc9828cdaf7e2de44abd0992a5cb5c7b50eb5c90",
       "fileName": "Joban_Brand_Pack.zip",
-      "name": "Joban Brand Pack"
+      "name": "Joban Brand Pack",
+      "order": 0
     }
   ],
   "requestTimeoutSec": 10,
