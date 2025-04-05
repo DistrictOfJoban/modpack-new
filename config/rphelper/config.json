@@ -1,6 +1,14 @@
 {
   "packs": [
     {
+      "sourceUrl": "https://www.joban.org/pack/YokoAir_Pack.zip",
+      "sha1Url": "https://www.joban.org/pack/sha1_yka.txt",
+      "fileName": "YokoAir_Pack.zip",
+      "equivPacks": ["file/pack_yka"],
+      "name": "YokoAir Pack",
+      "order": 6
+    },
+    {
       "sourceUrl": "https://www.joban.org/pack/GM_Pack.zip",
       "sha1Url": "https://www.joban.org/pack/sha1_gm.txt",
       "fileName": "GM_Pack.zip",
