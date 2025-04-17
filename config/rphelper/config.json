@@ -1,6 +1,14 @@
 {
   "packs": [
     {
+      "sourceUrl": "https://www.joban.org/pack/KCR_Pack.zip",
+      "sha1Url": "https://www.joban.org/pack/sha1_kcr.txt",
+      "fileName": "KCR_Pack.zip",
+      "equivPacks": ["file/pack_kcr"],
+      "name": "KCR Pack",
+      "order": 7
+    },
+    {
       "sourceUrl": "https://www.joban.org/pack/YokoAir_Pack.zip",
       "sha1Url": "https://www.joban.org/pack/sha1_yka.txt",
       "fileName": "YokoAir_Pack.zip",
