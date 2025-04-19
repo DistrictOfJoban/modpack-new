@@ -6,6 +6,14 @@
       "fileName": "KCR_Pack.zip",
       "equivPacks": ["file/pack_kcr"],
       "name": "KCR Pack",
+      "order": 8
+    },
+    {
+      "sourceUrl": "https://www.joban.org/pack/SXR_Pack.zip",
+      "sha1Url": "https://www.joban.org/pack/sha1_sxr.txt",
+      "fileName": "SXR_Pack.zip",
+      "equivPacks": ["file/pack_sxr"],
+      "name": "SXR Pack",
       "order": 7
     },
     {
