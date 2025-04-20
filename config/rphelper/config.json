@@ -6,7 +6,7 @@
       "fileName": "KCR_Pack.zip",
       "equivPacks": ["file/pack_kcr"],
       "name": "KCR Pack",
-      "order": 8
+      "order": 9
     },
     {
       "sourceUrl": "https://www.joban.org/pack/SXR_Pack.zip",
@@ -14,7 +14,7 @@
       "fileName": "SXR_Pack.zip",
       "equivPacks": ["file/pack_sxr"],
       "name": "SXR Pack",
-      "order": 7
+      "order": 8
     },
     {
       "sourceUrl": "https://www.joban.org/pack/YokoAir_Pack.zip",
@@ -22,6 +22,14 @@
       "fileName": "YokoAir_Pack.zip",
       "equivPacks": ["file/pack_yka"],
       "name": "YokoAir Pack",
+      "order": 7
+    },
+     {
+      "sourceUrl": "https://www.joban.org/pack/mon_Pack.zip",
+      "sha1Url": "https://www.joban.org/pack/sha1_mon.txt",
+      "fileName": "GM_Monorail_Pack.zip",
+      "equivPacks": ["file/pack_mon"],
+      "name": "GM Monorail Pack",
       "order": 6
     },
     {
