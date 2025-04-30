@@ -1,7 +1,13 @@
-name = "prefab"
-filename = "prefab-fabric-4.3.3.jar"
+name = "Prefab"
+filename = "prefab-fabric-6.0.2.jar"
+side = "both"
 
 [download]
-url = "https://github.com/DistrictOfJoban/MC-Prefab-Fabric/releases/download/v4.3.3/prefab-fabric-4.3.3.jar"
-hash-format = "sha256"
-hash = "7bb845d9c0968beeee35cf42661137c99d60b62a1aa3f3645bfce7b4d651e752"
+url = "https://cdn.modrinth.com/data/pTJ1ZloG/versions/pUOSNSYw/prefab-fabric-6.0.2.jar"
+hash-format = "sha512"
+hash = "34cf9e5d38714358916fd6bb79ce7a60199d9b68119e3a855066cb9ee2a415d9ec018a0ebf658dcbdbb57d997127ad52f0bf6752bbe3d97f7d53db7c31743082"
+
+[update]
+[update.modrinth]
+mod-id = "pTJ1ZloG"
+version = "pUOSNSYw"

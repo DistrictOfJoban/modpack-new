@@ -1,0 +1,13 @@
+name = "Physics Toys"
+filename = "physics_toys-0.2.0+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/JHvtQzoF/versions/d2Z0m8nL/physics_toys-0.2.0%2B1.21.jar"
+hash-format = "sha512"
+hash = "fbdb718bdd4730254ccbecf79b5916487d908f8d0462307cd5458185b9dce149a2b84d50069d3259482c6f3c4018fc891c89c9597ced858033fde1cabe21a7cd"
+
+[update]
+[update.modrinth]
+mod-id = "JHvtQzoF"
+version = "d2Z0m8nL"

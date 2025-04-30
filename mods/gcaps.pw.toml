@@ -1,0 +1,13 @@
+name = "gCAPS"
+filename = "gcaps-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1bLzboaC/versions/dXK9i7lX/gcaps-1.1.0.jar"
+hash-format = "sha512"
+hash = "db7cf484250c7643700ae913165144405ec2a2ef0555069aeaff5fc13b8c7bacca2e8299f7247266bb8d2b13be775a687918862820fee175cb4ab368e590f51c"
+
+[update]
+[update.modrinth]
+mod-id = "1bLzboaC"
+version = "dXK9i7lX"

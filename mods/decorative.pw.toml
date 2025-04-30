@@ -1,0 +1,13 @@
+name = "Decorative"
+filename = "decorative-5.0.0-alpha.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/O7pXTXac/versions/8qdhpgiP/decorative-5.0.0-alpha.2.jar"
+hash-format = "sha512"
+hash = "5bbd9ceb7a6f7eff0b70834abe7354b4518d17b5559a7eb67b3688365e812e830d9438f65a4723fdd65588a3b13dffe9b7c89bb694aaa1a7eefc013ff6424d47"
+
+[update]
+[update.modrinth]
+mod-id = "O7pXTXac"
+version = "8qdhpgiP"
