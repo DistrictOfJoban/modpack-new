@@ -1,0 +1,7 @@
+name = "time-and-wind-ct"
+filename = "time-and-wind-ct-1.4.9+1.21.jar"
+
+[download]
+url = "https://github.com/arsel-5lvxa7b1/time-and-wind/releases/download/taw-1.21/time-and-wind-ct-1.4.9+1.21.jar"
+hash-format = "sha256"
+hash = "59baa738e71b0e54e8e6bff9bb794ba572b18a176add71683e81f0c17e06b022"
