@@ -92,6 +92,11 @@ file = "config/timeoutout.json"
 hash = "09b5941acf87fd7182725fe3eb156e3f58618ddd1685613b377f9e17fdc95d2a"
 
 [[files]]
+file = "mods/asahi.pw.toml"
+hash = "d844b81eb9444a8d13adf653838bf18bcafeb59cacdaa9f90bd64724cedfccc4"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "b0007dfe3723c584b23c4d8ab61dce58212565abfdcf3f171ff8bf961342d10c"
 metafile = true
@@ -259,11 +264,6 @@ metafile = true
 [[files]]
 file = "mods/the-tube.pw.toml"
 hash = "399249e5d32517c3ec7441fa6071667827547c3475e6e8d7cb62e55af63c7a82"
-metafile = true
-
-[[files]]
-file = "mods/time-wind.pw.toml"
-hash = "bf87ebad51e661a2bf6216cd003bb61886c4b8f5d29194583a6a69a1eb4a7c60"
 metafile = true
 
 [[files]]
