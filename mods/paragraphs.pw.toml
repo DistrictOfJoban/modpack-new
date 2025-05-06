@@ -3,11 +3,11 @@ filename = "paragraphs-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/iDOOi3yS/versions/oRae26Nf/paragraphs-1.1.0.jar"
-hash-format = "sha512"
-hash = "aeb7df16226d0769edd7895ee637661e21219c3749a9c6e156d905671442e538c6d234dc6d4f6dfc8b3625a8f27faefcaeeef1488706e6d9c8f427d992f64412"
+url = "https://cdn.modrinth.com/data/iDOOi3yS/versions/3mP4emmk/paragraphs-1.1.0.jar"
+hash-format = "sha1"
+hash = "e0f7babe883700cd5fdcd53c0cd042ce2786dca3"
 
 [update]
 [update.modrinth]
 mod-id = "iDOOi3yS"
-version = "oRae26Nf"
+version = "3mP4emmk"
