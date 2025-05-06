@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/MC_Versioning.odp"
-hash = "e1198037ab0fba60d9cd93b8d79b417429f700389a91acead16ed3f919416425"
-
-[[files]]
 file = "config/betterf3.json"
 hash = "a75a673bf7de410f77fc9d3654d907532fa2638a12f708f861cadaacb41ddf27"
 preserve = true
