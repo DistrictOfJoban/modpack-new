@@ -1,6 +1,13 @@
 {
   "packs": [
     {
+      "sourceUrl": "https://cdn.modrinth.com/data/nwCf4Xi1/versions/QmFjVbnA/Tramway%20infrastructure%20pack.zip",
+      "sha1": "36bfbb32c726d8fb8eaf49181f282ff7c127614e",
+      "fileName": "TW_INFRA_Pack.zip",
+      "name": "Tramways Infrastructure Pack",
+      "order": 10
+    },
+    {
       "sourceUrl": "https://www.joban.org/pack/KCR_Pack.zip",
       "sha1Url": "https://www.joban.org/pack/sha1_kcr.txt",
       "fileName": "KCR_Pack.zip",
