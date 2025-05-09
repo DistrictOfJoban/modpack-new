@@ -92,11 +92,6 @@ file = "config/timeoutout.json"
 hash = "09b5941acf87fd7182725fe3eb156e3f58618ddd1685613b377f9e17fdc95d2a"
 
 [[files]]
-file = "mods/armisteel.pw.toml"
-hash = "98302914d658beb1d9df2a6d71441251aed4f539f1f62edd079644825a38f27e"
-metafile = true
-
-[[files]]
 file = "mods/armorstandeditor.pw.toml"
 hash = "730964b2b141ed3c89e3aa8888b8486cf378e3248548978e5ce65aa49b38150f"
 metafile = true
@@ -219,11 +214,6 @@ metafile = true
 [[files]]
 file = "mods/flw-vanillin.pw.toml"
 hash = "d0432b19479e39a125d5fa038766f21f72ae5ded133c576fa3c9235f583e4ed7"
-metafile = true
-
-[[files]]
-file = "mods/fusion-connected-textures.pw.toml"
-hash = "569bc072511b51e5f757a353a8cad266c36e764c406640bc386934b5df92b8bd"
 metafile = true
 
 [[files]]
