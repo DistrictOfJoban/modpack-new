@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/hoofprint.pw.toml"
-hash = "bf1a60bc9715631838823c63e49cef34cae44526b11018693251ade3ff464672"
+hash = "937c61791c60ccf4c5ba491455eccefcab2ba0e0eb54566225b847c440a327ef"
 metafile = true
 
 [[files]]
@@ -283,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d2eef785df399c7b45f20ecc3d07e1749b4bff2b2f87dc1c47d3a339996569c2"
+hash = "e82c4d4a21b46e5e0c71750f4843a9816f79c0fc1ecda31df8f40c43daa30d12"
 metafile = true
 
 [[files]]
@@ -324,11 +324,6 @@ metafile = true
 [[files]]
 file = "mods/pesky-seagulls.pw.toml"
 hash = "ba722619e0691c2e6793f1eee239caaa9522de76c6d594bca0234bff5664d06e"
-metafile = true
-
-[[files]]
-file = "mods/physics-toys.pw.toml"
-hash = "6cefa25c369b85f72cc210ef403bfead03e73bad0d66652c66a0f5eb2b17bc37"
 metafile = true
 
 [[files]]
@@ -418,7 +413,7 @@ metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
-hash = "e03afee4a32170fa7f20c55a19a9b5d0dc493964a856c22da13fca4ed92f5a48"
+hash = "2178701db667c78292309b92cbbad75d0c719e433fe3ce44b1d239f16390092e"
 metafile = true
 
 [[files]]

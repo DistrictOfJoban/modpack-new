@@ -1,7 +1,7 @@
 name = "hoofprint"
-filename = "hoofprint-0.8.0-alpha.6+1.21.jar"
+filename = "hoofprint-0.8.0-alpha.9+1.21.jar"
 
 [download]
-url = "https://github.com/HestiMae/hoofprint/releases/download/v0.8.0-alpha.6%2B1.20/hoofprint-0.8.0-alpha.6+1.21.jar"
+url = "https://github.com/HestiMae/hoofprint/releases/download/v0.8.0-alpha.9%2B1.20/hoofprint-0.8.0-alpha.9+1.21.jar"
 hash-format = "sha256"
-hash = "54c946dc33ee19ea68fdd73d0dd2191d6cf7b9ff10ad1e4724b6408e2a208b77"
+hash = "545b44c323cef9a68d349f0965acc862ae12fbe0e94571e61bbbe784fde23cf9"
