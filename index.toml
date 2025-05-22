@@ -232,6 +232,11 @@ hash = "56cb6efed3d72030eb8d0253623d753c35a31b01b2be7fc8fc2250d5b23bd720"
 metafile = true
 
 [[files]]
+file = "mods/hitboxformylightblock.pw.toml"
+hash = "9bc3639d4d43ca6d26cab7cce50473bfc4ccfb924f1ae652f66a4b3a9cb77803"
+metafile = true
+
+[[files]]
 file = "mods/hoofprint.pw.toml"
 hash = "937c61791c60ccf4c5ba491455eccefcab2ba0e0eb54566225b847c440a327ef"
 metafile = true

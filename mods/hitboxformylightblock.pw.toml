@@ -1,0 +1,7 @@
+name = "HitboxForMyLightBlock"
+filename = "HitboxForMyLightBlock-1.0.0+mc1.21.1.jar"
+
+[download]
+url = "https://github.com/Kenny-Hui/HitboxForMyLightBlock/releases/download/v1.0.0/HitboxForMyLightBlock-1.0.0+mc1.21.1.jar"
+hash-format = "sha256"
+hash = "07c6aefc7b990fefc9c7514b14869210323aef84f1a012f0b840093a5ef993ec"
