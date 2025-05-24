@@ -377,6 +377,11 @@ hash = "e4891e76bc72c6b2cc0443679b7412506e32bddcb0648539cc7781d3bfb045c7"
 metafile = true
 
 [[files]]
+file = "mods/slideshow.pw.toml"
+hash = "c354db1e55ea0df26f4616728329471e004577e9fd6b86d47e151fc66c2fe0f7"
+metafile = true
+
+[[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "0c407cc2864d95d58aa13533a893c263bc1a1001800f8d2c10c6755a3618bf82"
 metafile = true

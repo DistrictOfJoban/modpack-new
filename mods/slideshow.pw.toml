@@ -1,0 +1,7 @@
+name = "slideshow"
+filename = "Slideshow-1.0.0+fork.1.jar"
+
+[download]
+url = "https://github.com/DistrictOfJoban/Slideshow/releases/download/v1.0.0%2Bfork.1/Slideshow-1.0.0+fork.1.jar"
+hash-format = "sha256"
+hash = "f2dec2a46e99b52ef8668970bfb7821a84976e3f815f60711fb1a7908a642958"
