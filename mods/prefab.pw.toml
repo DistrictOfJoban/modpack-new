@@ -2,6 +2,6 @@ name = "prefab"
 filename = "prefab-fabric-4.3.3.jar"
 
 [download]
-url = "https://github.com/DistrictOfJoban/MC-Prefab-Fabric/releases/download/v4.3.3/prefab-fabric-4.3.3.jar"
+url = "https://github.com/DistrictOfJoban/MC-Prefab-Fabric/releases/download/v4.3.3%2Bfork.1/prefab-fabric-4.3.3.jar"
 hash-format = "sha256"
-hash = "7bb845d9c0968beeee35cf42661137c99d60b62a1aa3f3645bfce7b4d651e752"
+hash = "c41abf902eb4d296f67177b8f2d05d2563a791278fa032b76604e6b5243a91b9"

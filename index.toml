@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/prefab.pw.toml"
-hash = "5ca191965129648d19850bbe8d52a03437e24d1665dff0823c0c0d9dd0fc710d"
+hash = "6a37b1da4e07a3f7dc06aff06a073a1450d86ec429e9326a48638f65ee388bd4"
 metafile = true
 
 [[files]]
