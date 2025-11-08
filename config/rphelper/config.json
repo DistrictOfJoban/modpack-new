@@ -13,6 +13,14 @@
       "fileName": "KCR_Pack.zip",
       "equivPacks": ["file/pack_kcr"],
       "name": "KCR Pack",
+      "order": 10
+    },
+    {
+      "sourceUrl": "https://www.joban.org/pack/pack_rgl.zip",
+      "sha1Url": "https://www.joban.org/pack/sha1_rgl.txt",
+      "fileName": "pack_rgl.zip",
+      "equivPacks": ["file/pack_rgl"],
+      "name": "Rigel Pack",
       "order": 9
     },
     {
