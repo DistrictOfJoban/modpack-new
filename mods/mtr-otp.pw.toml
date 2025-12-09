@@ -1,7 +1,7 @@
 name = "mtr-otp"
-filename = "mtr-otp-1.1.1+mc1.19.4.jar"
+filename = "mtr-otp-1.1.2+mc1.19.4.jar"
 
 [download]
-url = "https://github.com/DistrictOfJoban/MTR-OTP/releases/download/1.1.1/mtr-otp-1.1.1+mc1.19.4.jar"
+url = "https://github.com/DistrictOfJoban/MTR-OTP/releases/download/1.1.2/mtr-otp-1.1.2+mc1.19.4.jar"
 hash-format = "sha256"
-hash = "5c4dd5bfd6ec5f0d1e9ba5aa23108700773ee5b2372e007ddd6119342e6f7643"
+hash = "c75d9c688ccb106e6a43b5a9722e25f0c1689d1817aeb25fc6da6e9c5b90321e"
