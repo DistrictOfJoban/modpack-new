@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtr-otp.pw.toml"
-hash = "d91e09dd995865da01a4a900122df9a3dd0f97a4b97c8990633826d867815780"
+hash = "b4853de7b741765773f024ece854cb9443066de9a5fe500875499840df10a9fc"
 metafile = true
 
 [[files]]
