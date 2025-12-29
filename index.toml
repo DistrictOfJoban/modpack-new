@@ -236,6 +236,11 @@ hash = "c6a373e55a71f32e115032a8abd85c6bc2086f442af244a1704c08cb4c197ac6"
 metafile = true
 
 [[files]]
+file = "mods/serverlistsync.pw.toml"
+hash = "0d5b3e3cd50365ca4c476af71c5379ebeb23ad524e46e16c55032dfe6c7fb6ba"
+metafile = true
+
+[[files]]
 file = "mods/slideshow.pw.toml"
 hash = "b24a0f099c89c79a0851f268c90534a35fb7102fa7183f0808b93c9f2ea12cf3"
 metafile = true
