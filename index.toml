@@ -74,7 +74,7 @@ hash = "272ac0df1d2c1cab549d3a3d16deca1d59cbff00637c1a3d4be613b5193f6f2c"
 
 [[files]]
 file = "config/serverlistsync.json"
-hash = "91a3bebba4d78b5d1b6b99cfab7333bac637b2f1b821f14629100b817d0895c0"
+hash = "1efb073f8d692fe9325ca3d03bea047eac23af0e00bc450cf7fa4492687e432e"
 
 [[files]]
 file = "config/slideshow.json"
