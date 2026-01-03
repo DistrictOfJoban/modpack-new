@@ -103,7 +103,7 @@
       "order": 0
     }
   ],
-  "requestTimeoutSec": 10,
+  "requestTimeoutSec": 1,
   "appearance": {
     "normal_texture": "rphelper:textures/normal_texture.png",
     "error_texture": "rphelper:textures/error_texture.png",
