@@ -4,6 +4,7 @@
       "sourceUrl": "https://www.joban.org/pack/pack_yer.zip",
       "sha1Url": "https://www.joban.org/pack/sha1_yer.txt",
       "fileName": "pack_yer.zip",
+      "equivPacks": ["file/pack_yer"],
       "name": "Yakumo Electric Railway Pack",
       "order": 12
     },
