@@ -1,7 +1,7 @@
 {
   "packs": [
     {
-      "sourceUrl": "https://www.joban.org/pack/pack_yer.zip",
+      "sourceUrl": "https://www.joban.org/pack/dist/pack_yer.zip",
       "sha1Url": "https://www.joban.org/pack/sha1_yer.txt",
       "fileName": "pack_yer.zip",
       "equivPacks": ["file/pack_yer"],
@@ -16,7 +16,7 @@
       "order": 11
     },
     {
-      "sourceUrl": "https://www.joban.org/pack/pack_kcr.zip",
+      "sourceUrl": "https://www.joban.org/pack/dist/pack_kcr.zip",
       "sha1Url": "https://www.joban.org/pack/sha1_kcr.txt",
       "fileName": "KCR_Pack.zip",
       "equivPacks": ["file/pack_kcr"],
@@ -24,7 +24,7 @@
       "order": 10
     },
     {
-      "sourceUrl": "https://www.joban.org/pack/pack_rgl.zip",
+      "sourceUrl": "https://www.joban.org/pack/dist/pack_rgl.zip",
       "sha1Url": "https://www.joban.org/pack/sha1_rgl.txt",
       "fileName": "pack_rgl.zip",
       "equivPacks": ["file/pack_rgl"],
@@ -32,7 +32,7 @@
       "order": 9
     },
     {
-      "sourceUrl": "https://www.joban.org/pack/pack_sxr.zip",
+      "sourceUrl": "https://www.joban.org/pack/dist/pack_sxr.zip",
       "sha1Url": "https://www.joban.org/pack/sha1_sxr.txt",
       "fileName": "SXR_Pack.zip",
       "equivPacks": ["file/pack_sxr"],
@@ -40,7 +40,7 @@
       "order": 8
     },
     {
-      "sourceUrl": "https://www.joban.org/pack/pack_yka.zip",
+      "sourceUrl": "https://www.joban.org/pack/dist/pack_yka.zip",
       "sha1Url": "https://www.joban.org/pack/sha1_yka.txt",
       "fileName": "YokoAir_Pack.zip",
       "equivPacks": ["file/pack_yka"],
@@ -48,7 +48,7 @@
       "order": 7
     },
      {
-      "sourceUrl": "https://www.joban.org/pack/pack_mon.zip",
+      "sourceUrl": "https://www.joban.org/pack/dist/pack_mon.zip",
       "sha1Url": "https://www.joban.org/pack/sha1_mon.txt",
       "fileName": "GM_Monorail_Pack.zip",
       "equivPacks": ["file/pack_mon"],
@@ -56,7 +56,7 @@
       "order": 6
     },
     {
-      "sourceUrl": "https://www.joban.org/pack/pack_gm.zip",
+      "sourceUrl": "https://www.joban.org/pack/dist/pack_gm.zip",
       "sha1Url": "https://www.joban.org/pack/sha1_gm.txt",
       "fileName": "GM_Pack.zip",
       "equivPacks": ["file/pack_gm"],
@@ -64,7 +64,7 @@
       "order": 5
     },
     {
-      "sourceUrl": "https://www.joban.org/pack/pack_ol.zip",
+      "sourceUrl": "https://www.joban.org/pack/dist/pack_ol.zip",
       "sha1Url": "https://www.joban.org/pack/sha1_ol.txt",
       "fileName": "OL_Pack.zip",
       "equivPacks": ["file/pack_ol"],
@@ -72,7 +72,7 @@
       "order": 4
     },
     {
-      "sourceUrl": "https://www.joban.org/pack/pack_ynt.zip",
+      "sourceUrl": "https://www.joban.org/pack/dist/pack_ynt.zip",
       "sha1Url": "https://www.joban.org/pack/sha1_ynt.txt",
       "fileName": "YNT_Pack.zip",
       "equivPacks": ["file/pack_ynt"],
@@ -80,7 +80,7 @@
       "order": 3
     },
     {
-      "sourceUrl": "https://www.joban.org/pack/pack_skt.zip",
+      "sourceUrl": "https://www.joban.org/pack/dist/pack_skt.zip",
       "sha1Url": "https://www.joban.org/pack/sha1_skt.txt",
       "fileName": "SKT_Pack.zip",
       "equivPacks": ["file/pack_skt"],
@@ -88,7 +88,7 @@
       "order": 2
     },
     {
-      "sourceUrl": "https://www.joban.org/pack/pack_joban.zip",
+      "sourceUrl": "https://www.joban.org/pack/dist/pack_joban.zip",
       "sha1Url": "https://www.joban.org/pack/sha1.txt",
       "fileName": "Joban_SRP.zip",
       "equivPacks": ["file/Joban Pack", "file/Joban_Pack", "file/Joban-Pack"],
