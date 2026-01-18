@@ -1,7 +1,8 @@
 name = "serverlistsync"
-filename = "serverlistsync-fabric-1.19.4-1.0.2+fork.1.jar"
+filename = "serverlistsync-fabric-1.19.4-1.0.2+fork.2.jar"
+side = "both"
 
 [download]
-url = "https://github.com/DistrictOfJoban/ServerListSync/releases/download/v1.0.2%2Bfork.1/serverlistsync-fabric-1.19.4-1.0.2+fork.1.jar"
+url = "https://github.com/DistrictOfJoban/ServerListSync/releases/download/v1.0.2%2Bfork.2/serverlistsync-fabric-1.19.4-1.0.2+fork.2.jar"
 hash-format = "sha256"
-hash = "fc04b82e154d3e99df0634d583e2630aab72721b8fb1f5009dd2da1573e62f6b"
+hash = "cc66d20e3639b2af715d36cde1bf5fcf453350b3eb2ea0faf9ee5c4457302271"

@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/serverlistsync.pw.toml"
-hash = "0d5b3e3cd50365ca4c476af71c5379ebeb23ad524e46e16c55032dfe6c7fb6ba"
+hash = "5bd04823c0d938ce9dde5028c658f45d05534e61f7a453238c44060c512eacbd"
 metafile = true
 
 [[files]]
