@@ -66,7 +66,7 @@ preserve = true
 
 [[files]]
 file = "config/rphelper/config.json"
-hash = "9b3f87b37fcc210619f126f06fc7f4de7f1c4a592efaca7bdb29ed8c4531a3b1"
+hash = "ed0395e6aea059ee1825a157dc2142b448e5b07b35a890b49648dab9c2449b80"
 
 [[files]]
 file = "config/rrp.properties"
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/rphelper.pw.toml"
-hash = "584beec75f330e6a1a61b52b91184621d8cce02772de3ac287176a59fc78a899"
+hash = "7a5f7c7fc48a8ea0c31f06b3f1a430ad53a57c327bb69dafd573a4b7c8642dd9"
 metafile = true
 
 [[files]]
