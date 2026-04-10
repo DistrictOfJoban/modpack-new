@@ -6,6 +6,10 @@ hash = "a75a673bf7de410f77fc9d3654d907532fa2638a12f708f861cadaacb41ddf27"
 preserve = true
 
 [[files]]
+file = "config/com.yuushya/client_config.json"
+hash = "a5068b44183cf05a773c6119c13cd8bda95d05ef566f83eaab508f4fe156ec65"
+
+[[files]]
 file = "config/enhanced_bes.properties"
 hash = "f472ccb5001adae92414a72b8f6d77e8a1cef5db744288b19384f99f7ce9012f"
 preserve = true
