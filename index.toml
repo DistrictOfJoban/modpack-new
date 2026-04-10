@@ -96,6 +96,11 @@ file = "config/timeoutout.json"
 hash = "09b5941acf87fd7182725fe3eb156e3f58618ddd1685613b377f9e17fdc95d2a"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "34c16397b25b263eb55435eaf1ae758d6747da76fb7319734df0f92725c165cc"
+metafile = true
+
+[[files]]
 file = "mods/asahi.pw.toml"
 hash = "d844b81eb9444a8d13adf653838bf18bcafeb59cacdaa9f90bd64724cedfccc4"
 metafile = true
@@ -303,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "ca4945ffb8f3920e76156dcbe4782f7c985678ced91cded80cc2e4b4b6915502"
+metafile = true
+
+[[files]]
+file = "mods/yuushya-townscape.pw.toml"
+hash = "9f2cfc4df171adc92bb1498b5529f6e926ddea56e06917a935b5931094bec211"
 metafile = true
 
 [[files]]

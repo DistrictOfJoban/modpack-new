@@ -1,0 +1,13 @@
+name = "Yuushya Townscape"
+filename = "yuushya-1.19.4-fabric-2.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lfVtagkm/versions/vkgQlnGy/yuushya-1.19.4-fabric-2.2.2.jar"
+hash-format = "sha512"
+hash = "10f3ffad173af6120fb6f1b777fd320620bf65042b3ebc12553cf6f3a4cbcf3cf302f6e848d645a43c72bac6becb773caac53509bf752286796c1b7c955e9033"
+
+[update]
+[update.modrinth]
+mod-id = "lfVtagkm"
+version = "vkgQlnGy"
