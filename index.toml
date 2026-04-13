@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/betterf3.json"
-hash = "a75a673bf7de410f77fc9d3654d907532fa2638a12f708f861cadaacb41ddf27"
+hash = "6cbca272b22197d475d27fe70903bfd58255a23045064dfc60718b36eb9f8434"
 preserve = true
 
 [[files]]
