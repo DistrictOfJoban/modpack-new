@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/slideshow.pw.toml"
-hash = "b24a0f099c89c79a0851f268c90534a35fb7102fa7183f0808b93c9f2ea12cf3"
+hash = "effb31729e357ecb79481fd7d6619882ec306f50167a89e6eefd322bf653d1e3"
 metafile = true
 
 [[files]]

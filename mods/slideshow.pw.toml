@@ -1,7 +1,8 @@
 name = "slideshow"
-filename = "Slideshow-fabric-1.19.4-1.0.2.jar"
+filename = "fabric-1.19.4-1.0.3.jar"
+side = "both"
 
 [download]
 url = "https://github.com/DistrictOfJoban/Slideshow-Legacy/releases/download/1.0.3/fabric-1.19.4-1.0.3.jar"
 hash-format = "sha256"
-hash = "d9e6dc9c00456358b1bcfa697b65ee5c185639b9c64b019b6a56a0797872dd7f"
+hash = "3a0496af7a2040f1034f4d83305a27c35a986aad199c03731a858ff4258a0de8"
