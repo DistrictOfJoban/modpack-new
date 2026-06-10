@@ -1,6 +1,13 @@
 {
   "packs": [
     {
+      "sourceUrl": "https://cdn.modrinth.com/data/Qb0s8rHC/versions/sd42ARn1/%5B1.2-HOTFIX1%5Dukmtr.zip?mr_download_reason=standalone",
+      "sha1": "2dce030a29e054d833804b4147d437e665aa7c80",
+      "fileName": "ukrail_mtr_train_addons.zip",
+      "name": "UKRail.mtr trains-addon",
+      "order": 13
+    },
+    {
       "sourceUrl": "https://cdn.modrinth.com/data/nwCf4Xi1/versions/QmFjVbnA/Tramway%20infrastructure%20pack.zip",
       "sha1": "36bfbb32c726d8fb8eaf49181f282ff7c127614e",
       "fileName": "TW_INFRA_Pack.zip",
