@@ -1,6 +1,14 @@
 {
   "packs": [
     {
+      "sourceUrl": "https://www.joban.org/pack/dist/pack_tlm-csc-eyecandy.zip",
+      "sha1Url": "https://www.joban.org/pack/sha1_tlm-csc-eyecandy.txt",
+      "fileName": "pack_tlm_csc_eyecandy.zip",
+      "equivPacks": ["file/tlm-csc-eyecandy"],
+      "name": "TLM-CSC-Eyecandy",
+      "order": 14
+    },
+    {
       "sourceUrl": "https://cdn.modrinth.com/data/Qb0s8rHC/versions/sd42ARn1/%5B1.2-HOTFIX1%5Dukmtr.zip?mr_download_reason=standalone",
       "sha1": "2dce030a29e054d833804b4147d437e665aa7c80",
       "fileName": "ukrail_mtr_train_addons.zip",
